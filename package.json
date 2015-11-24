@@ -3,6 +3,6 @@
   "version": "1.0.0",
   "description" : "A 'Hello World' app demonstrating Node.js running on the Helion Development Platform.",
   "engines": {
-    "node": "0.10.38"
+    "node": "0.8.x"
   }
 }
