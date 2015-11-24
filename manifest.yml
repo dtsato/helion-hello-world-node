@@ -4,4 +4,3 @@
 applications:
 - name: helion-hello-world-node
   mem: 128M
-  buildpack: https://github.com/hpcloud/nodejs-buildpack.git#v1.5.0
